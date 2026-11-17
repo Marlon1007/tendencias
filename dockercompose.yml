@@ -40,3 +40,4 @@ networks:
 
 volumes:
   postgres_data:
+    name: v_marlon
